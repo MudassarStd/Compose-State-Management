@@ -1,4 +1,4 @@
-package com.std.composestatemanagement.presentation
+package com.std.composestatemanagement.challenges.ratingBar
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.material.icons.Icons

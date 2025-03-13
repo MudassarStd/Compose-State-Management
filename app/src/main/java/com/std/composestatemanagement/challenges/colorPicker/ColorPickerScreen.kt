@@ -1,4 +1,4 @@
-package com.std.composestatemanagement.presentation
+package com.std.composestatemanagement.challenges.colorPicker
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -17,6 +17,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
+
 
 @Composable
 fun HomeWallScreen(modifier: Modifier = Modifier) {
